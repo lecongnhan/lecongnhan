@@ -3,11 +3,12 @@
 
 ## I'm a Student, currently working as a Freelance Developer!
 
-- 🔭 I’m currently not working on anything.
-- 🌱 I’m currently learning everything I see in my way
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Build a nice GitHub and Stack Overflow profile and start my journey on contributing to the community!
-- ⚡ I just love to Code, listening to music and watching anime.
+- 🔭 I’m currently working on my personal blog built with Django.
+- 📖 I'm reading The Compound Effect - Darren Hardy.
+- 🌱 I am and will be learning everything I see in my way.
+- 🥅 2020 Goals: Build a nice GitHub and Stack Overflow profile and start & contribute in lots of community project!
+
+- ⚡ I just love to code, listening to music and watching anime & movies.
 
 ### Connect with me:
 
@@ -19,7 +20,7 @@
 
 ### Languages and Tools:
 
-Updating
+I will update this soon.
 
 <br />
 <br />
