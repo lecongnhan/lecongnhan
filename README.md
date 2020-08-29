@@ -14,7 +14,7 @@
 
 [<img align="left" alt="linkmez | Freelancer" width="22px" src="https://simpleicons.org/icons/freelancer.svg" />][Freelancer]
 [<img align="left" alt="lecongnhan.293 | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="l13484014 | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][Facebook]
+[<img align="left" alt="l13484014 | Stack Overflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />][StackOverflow]
 
 <br />
 
@@ -22,7 +22,9 @@
 
 <img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
+
 <br />
+
 [<img align="left" alt="Visual Studio" width="22px" src="https://simpleicons.org/icons/visualstudio.svg" />][Visual Studio]
 [<img align="left" alt="Visual Studio Code" width="22px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][Visual Studio Code]
 [<img align="left" alt="PyCharm" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][PyCharm]
@@ -33,3 +35,4 @@
 [StackOverflow]: https://stackoverflow.com/users/13484014
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [Visual Studio]: https://visualstudio.microsoft.com/
+[Visual Studio Code]: https://code.visualstudio.com/
