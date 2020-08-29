@@ -3,10 +3,10 @@
 
 ## I'm a Student, currently working as a Freelance Developer!
 
-- 🔭 I’m currently working on my personal blog built with Django.
-- 📖 I'm reading The Compound Effect - Darren Hardy.
+- 🔭 I’m currently working on my [personal blog](https://github.com/lecongnhan/lecongnhan-django-blog) built with [Django](https://www.djangoproject.com/).
+- 📖 I'm reading [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by [Darren Hardy](https://darrenhardy.com/).
 - 🌱 I am and will be learning everything I see in my way.
-- 🥅 2020 Goals: Build a nice GitHub and Stack Overflow profile and start & contribute in lots of community project!
+- 🥅 2020 Goals: Build a nice [GitHub](https://github.com/lecongnhan) and [Stack Overflow](https://stackoverflow.com/users/13484014/) profile and start & contribute in lots of community project!
 
 - ⚡ I just love to code, listening to music and watching anime & movies.
 
