@@ -1,4 +1,4 @@
-### Hi, I'm Le Cong Nhan - aka lecongnhan 👋
+### Hi, I'm Le Cong Nhan - aka lecongnhan or linkmez 👋
 
 
 ## I'm a Student, currently working as a Freelance Developer!
