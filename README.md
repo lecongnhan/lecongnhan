@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my [personal blog](https://github.com/lecongnhan/lecongnhan-django-blog) built with [Django](https://www.djangoproject.com/).
 - 📖 I'm reading [The Compound Effect](https://www.goodreads.com/book/show/9420697-the-compound-effect) by [Darren Hardy](https://darrenhardy.com/).
-- 🌱 I am and will be learning everything I see in my way, now [Database Management System](https://github.com) by Johannes Gehrke.
+- 🌱 I am and will be learning everything I see in my way, at the moment [Database Management System](https://github.com) by Johannes Gehrke.
 - 🥅 2020 Goals: Build a nice [GitHub](https://github.com/lecongnhan) and [Stack Overflow](https://stackoverflow.com/users/13484014/) profile and start & contribute in lots of community project!
 
 - ⚡ I just love to code, listening to music and watching anime & movies.
@@ -23,6 +23,7 @@
 <img align="left" alt="C++" width="22px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
 
+<br />
 <br />
 
 [<img align="left" alt="Visual Studio" width="22px" src="https://simpleicons.org/icons/visualstudio.svg" />][Visual Studio]
