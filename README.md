@@ -31,7 +31,7 @@
 [<img align="left" alt="PyCharm" width="22px" src="https://simpleicons.org/icons/pycharm.svg" />][PyCharm]
 
 
-[Freelancer]: https://www.vn.freelancer.com/u/Linkmez
+[Freelancer]: //
 [Facebook]: http://facebook.com/lecongnhan.293
 [StackOverflow]: https://stackoverflow.com/users/13484014
 [PyCharm]: https://www.jetbrains.com/pycharm/
